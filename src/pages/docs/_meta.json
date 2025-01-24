@@ -15,5 +15,11 @@
   "runtime": "Runtime",
   "library": "Library",
   "advanced": "Advanced",
-  "tutorials": "Tutorials"
+  "tutorials": "Tutorials",
+  "-- Contributor Documentation": {
+    "type": "separator",
+    "title": "Contributor Documentation"
+  },
+  "workers": "Worker Architecture",
+  "provable-events": "Provable Events"
 }
